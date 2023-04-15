@@ -9,18 +9,18 @@ body{
     width: 80%;
     padding: auto;
     text-align: center;
-    border: 1px solid darkmagenta;
+    border: 1px solid rgb(0, 139, 139);
 }
 #container h1{
     font-size: 20px;
-    color: aqua;
+    color: rgb(255, 0, 98);
 }
 #cabecera{
     background: orchid;
     color: antiquewhite;
     margin: 0;
     padding: 0.5em;
-    box-shadow: 0px 2px50px 0px palegreen (0,0,0,0.5);
+    box-shadow: 0px 2px50px 0px rgb(241, 181, 13) (0,0,0,0.5);
     font-weight: bold;
 
 }
