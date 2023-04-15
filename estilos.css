@@ -13,4 +13,17 @@ body{
 }
 #container h1{
     font-size: 20px;
+    color: aqua;
+}
+#cabecera{
+    background: orchid;
+    color: antiquewhite;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px50px 0px palegreen (0,0,0,0.5);
+    font-weight: bold;
+
+}
+#div__p2{
+    color: lightseagreen;
 }
